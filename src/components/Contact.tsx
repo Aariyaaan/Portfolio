@@ -6,11 +6,11 @@ export default function Contact() {
       <div className="max-w-4xl mx-auto text-center">
         <div className="inline-flex items-center gap-3 mb-4">
           <div className="w-6 h-[1px] bg-accent" />
-          <span className="text-xs font-semibold uppercase tracking-widest text-accent">Let's Connect</span>
+          <span className="text-xs font-semibold uppercase tracking-widest text-accent">Let&apos;s Connect</span>
           <div className="w-6 h-[1px] bg-accent" />
         </div>
         
-        <h2 className="font-display font-bold text-4xl md:text-6xl mb-6 tracking-tight">Let's Create Something Memorable</h2>
+        <h2 className="font-display font-bold text-4xl md:text-6xl mb-6 tracking-tight">Let&apos;s Create Something Memorable</h2>
         <p className="text-muted max-w-xl mx-auto text-sm md:text-base mb-12 leading-relaxed">
           Whether you want to commission a long-form travel blog post, hire an editor for nature photography, or grab a coffee to share perspectives — my inbox is always open.
         </p>

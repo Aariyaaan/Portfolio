@@ -24,7 +24,7 @@ export default function Hero() {
           transition={{ delay: 0.1 }}
           className="font-display font-bold text-5xl md:text-7xl leading-none tracking-tight mb-4"
         >
-          Hi, I'm <span className="gradient-text">Aryan Bhatta</span>
+          Hi, I&apos;m <span className="gradient-text">Aryan Bhatta</span>
         </motion.h1>
 
         <motion.p 
@@ -42,7 +42,7 @@ export default function Hero() {
           transition={{ delay: 0.3 }}
           className="text-base md:text-lg text-muted/80 max-w-xl mx-auto mb-10 leading-relaxed"
         >
-          I'm a blog creator, explorer, and photography enthusiast based in Nepal. I focus on immersive storytelling, public relations, and exploring visual landscapes while keeping things simple.
+          I&apos;m a blog creator, explorer, and photography enthusiast based in Nepal. I focus on immersive storytelling, public relations, and exploring visual landscapes while keeping things simple.
         </motion.p>
 
         <motion.div 
